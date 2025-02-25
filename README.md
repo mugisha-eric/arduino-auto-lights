@@ -69,7 +69,4 @@ void loop() {
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-![MIT License](https://www.bing.com/images/search?q=mit%20license%20icon&view=detailv2&FORM=IQFRBA&id=61A74DE41EF97E8F4CA9C5868A0AB96AD79A8D34&selectedindex=0&&expw=1024&exph=1024&ccid=7ezd6%2b7A&ck=192EDC7B65C1E780D272D463AEA8952A&simid=607989116135431111&thid=OIP.7ezd6-7ATqvDElDim9M2WwHaHa&idpp=serp&idpbck=1)
-
-
-Feel free to customize the links and images according to your needs! If you have any specific questions or need further assistance, I'm here to help.
+![MIT License](https://www.svgrepo.com/show/444064/legal-license-mit.svg)
